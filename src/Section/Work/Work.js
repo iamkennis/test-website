@@ -1,8 +1,7 @@
 import './Work.css'
 import { Nav, Navbar } from 'react-bootstrap'
 import WorkData from '../../Utils/WorkData.json'
-import {Tabs,Tab,Box} from '@mui/material'
-
+import ImageCard from '../../components/ImageCard/ImageCard'
 
 function WorkSection () {
     return (
@@ -10,8 +9,7 @@ function WorkSection () {
             <div>
                 <h1 className='work-text' >My Work</h1>
             </div>
-            <Box sx={{borderBottom: 1, borderColor: 'divider'}}>
-            <Tabs value={value} onChange={handleChange} className="work-nav">
+            <Navbar className="justify-content-center work-nav">
                 { WorkData.map((item, index) => {
                 return ( 
                         <Nav.Link as='a' key={ index } to={ item.path } className='work-nav-link'>
@@ -19,8 +17,11 @@ function WorkSection () {
                         </Nav.Link>    
                 )
             }) }
-             </Tabs>
-                </Box>
+            </Navbar>
+            
+            <div>
+                <ImageCard/>
+            </div>
         </div>
     )
 }

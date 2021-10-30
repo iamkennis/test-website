@@ -1,0 +1,5 @@
+.card-img{
+    display:grid;
+    grid-gap: 0.5rem;
+    grid-template-areas: "Rec1" "Rec2" "Rec3";
+}

@@ -3,6 +3,8 @@ import AboutMeSection from '../../Section/AboutMe/AboutMe'
 import ServiceSection from '../../Section/Services/Service'
 import ExperienceSection from '../../Section/Experience/Experience'
 import WorkSection from '../../Section/Work/Work'
+import FormInput from '../../Section/FormInput/FormInput'
+
 
 function HomePage () {
     return (
@@ -11,7 +13,8 @@ function HomePage () {
             <AboutMeSection />
             <ServiceSection />
             <ExperienceSection />
-            <WorkSection/>
+            <WorkSection />
+            <FormInput/>
         </div>
     );
 }
