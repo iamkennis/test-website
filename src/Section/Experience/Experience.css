@@ -1,0 +1,108 @@
+.exp-h1{
+position: absolute;
+width: 186px;
+height: 48px;
+left: 629px;
+top: 2674px;
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+color: #FFCA47;
+}
+
+.img-line-1{
+    position: relative;
+    top: 129rem;
+    left: 42.6rem;
+   bottom: 0;
+}
+
+.img-line-2{
+    position: relative;
+    top: 34rem;
+    left: 42.6rem;
+   bottom: 0;
+}
+
+.exp-hr1{
+    margin-top: 2rem;
+}
+
+.exp-hr2{
+    margin-top: 3rem;
+}
+
+.exp-text{
+position: absolute;
+width: 254px;
+height: 32px;
+right: 15.2rem;
+top: 2873px;
+color:#ffffff;
+}
+
+.exp-text-date{
+position: absolute;
+width: 124px;
+height: 21px;
+right: 23rem;
+top: 2913px;
+color:#ffffff;
+}
+
+.exp-text-dec{
+position: absolute;
+width: 462px;
+height: 204px;
+right: 28px;
+top: 2958px;
+color:#ffffff;
+}
+
+
+.exp-col-3{
+    position:relative;
+    top: -52rem;
+    /* bottom: -15rem; */
+}
+
+.exp-col-4{
+    position: relative;
+    top: -50rem;
+    /* bottom: -15rem; */
+}
+
+.exp-col-5{
+    position: relative;
+    top: -50rem;
+    /* bottom: -15rem; */
+}
+
+.exp-text-right{
+position: absolute;
+width: 354px;
+height: 32px;
+left: 3.4rem;
+top: 2873px;
+color:#ffffff;
+}
+
+.exp-text-date-right{
+position: absolute;
+width: 124px;
+height: 21px;
+left: 3.5rem;
+top: 2913px;
+color:#ffffff;
+}
+
+.exp-text-dec-right{
+position: absolute;
+width: 462px;
+height: 204px;
+left: 58px;
+top: 2958px;
+color:#ffffff; 
+}

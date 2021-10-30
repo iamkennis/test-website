@@ -1,0 +1,9 @@
+.hr{
+position: relative;
+height: 220px;
+top: 128rem;
+bottom: 0;
+right: 40rem;
+border-left: 2px solid #ffffff;
+transform: rotate(180deg);
+}

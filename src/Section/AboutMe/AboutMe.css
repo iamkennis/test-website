@@ -1,0 +1,35 @@
+.about-image{
+position: absolute;
+width: 345px;
+height: 376px;
+left: 237px;
+top: 978px;
+}
+
+.about-h1{
+position: absolute;
+width: 159px;
+height: 48px;
+left: 630px;
+top: 1050px;
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+color: #FFCA47;
+}
+
+.about-p{
+position: absolute;
+width: 670px;
+height: 170px;
+left: 630px;
+top: 1100px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 21px;
+line-height: 159.6%;
+color: #FFFFFF;
+}

@@ -1,0 +1,31 @@
+.work-text{
+position: absolute;
+width: 248px;
+height: 48px;
+left: 659px;
+top: 4282px;
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+color: #FFCA47;
+}
+
+.work-nav{
+position: absolute;
+width: 38px;
+height: 34px;
+left: 745px;
+top: 4352px;
+
+}
+
+.work-nav-link{
+    color: #ffffff;
+}
+
+.work-nav-link:hover{
+    color:#FFCA47;
+    cursor: pointer;
+}

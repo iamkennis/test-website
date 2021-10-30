@@ -1,0 +1,35 @@
+[
+     {
+        "title": "All",
+        "path": "/"
+       
+    },
+    {
+        "title": "DESSERT",
+        "path": "/dessert"
+        
+    },
+    {
+        "title": "APPETIZER",
+        "path": "/appetizer"
+       
+    },
+    {
+        "title": "RESTAURANT",
+        "path": "/restaurant"
+       
+    },
+     {
+        "title": "DINNER",
+        "path": "/dinner"
+       
+    },
+    {
+        "title": "DRINKS",
+        "path": "/drinks"
+    },
+       {
+        "title": "CONFECTIONARY",
+        "path": "/confectionary"
+       }
+]

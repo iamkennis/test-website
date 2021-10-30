@@ -1,0 +1,75 @@
+
+.hero-backdrop{
+  background: black;
+  opacity: 90%;
+  max-width: 100vw; 
+  height: 294rem;
+}
+
+.hero-p-text{
+  position: absolute;
+width: 133px;
+height: 28px;
+left: 148px;
+top: 285px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+color: #FFFFFF;
+}
+
+.hero-h1-text{
+  position: absolute;
+width: 398px;
+height: 107px;
+left: 148px;
+top: 309px;
+font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 80px;
+line-height: 107px;
+color: #FFFFFF;
+}
+
+.hero-text{
+position: absolute;
+width: 601px;
+height: 102px;
+left: 147px;
+top: 424px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 139.6%;
+color: #FFFFFF;
+}
+
+.hero-btn{
+position: absolute;
+width: 196px;
+height: 56px;
+left: 622px;
+top: 2390px;
+border-radius: 5px;
+border: 2px solid #FFCA47;
+color:#FFCA47;
+font-size: 16px;
+font-weight: bold;
+}
+
+.hero-btn:hover{
+  color:#FFFFFF;
+  background-color: #FFCA47;
+}
+
+.hero-image{
+position: absolute;
+width: 465px;
+height: 510px;
+left: 800px;
+top: 180px;
+}
